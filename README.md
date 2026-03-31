@@ -5,7 +5,6 @@
   <p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
     <img src="https://img.shields.io/badge/Groq_API-f3d03e?style=for-the-badge&logo=openai&logoColor=black" alt="Groq">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
   </p>
 
