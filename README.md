@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
   </p>
 
-  <a href="https://aqbobek-portal-five.vercel.app/"><strong>Открыть портал »</strong></a>
+  <a href="https://aqbobek-portal-blush.vercel.app/"><strong>Открыть портал »</strong></a>
 </div>
 
 <br />
