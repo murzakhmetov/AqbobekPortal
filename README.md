@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://aqbobek-portal-five.vercel.app/logo.png" alt="Aqbobek Logo" width="120" height="auto" />
   <h1>Aqbobek Portal 🚀</h1>
   <p>Интеллектуальная образовательная платформа с AI-поддержкой</p>
 
@@ -60,3 +59,4 @@
 </table>
 
 ---
+
