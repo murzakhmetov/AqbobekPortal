@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Aqbobek Portal 🚀</h1>
+  <h1>Aqbobek Portal 🚀(made by XTRALIST)</h1>
   <p>Интеллектуальная образовательная платформа с AI-поддержкой</p>
 
   <p>
